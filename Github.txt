@@ -1,1 +1,1 @@
-git config
+empty file
